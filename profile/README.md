@@ -15,7 +15,7 @@ Hierzu werden ausgehend von konkreten Anwendungsfällen aus der Energie- und Geb
 In GANGES arbeiten drei Konsortialpartner – zwei einander komplementär ergänzende Forschungsgruppen der TU Berlin (eine davon als Konsortialführer) und das Fraunhofer Spin- Off Ampeers Energy zusammen.
 
 ### TU Berlin – Information Systems Engineering (ISE@TUB)
-Das fachgebiet ISE befasst sich unter anderem mit dem Bereich "Privacy Systems" und dabei im Konkreten mit Datenschutztechnologien mit explizitem Bezug zu realen Einsatzumgebungen.
+Das Fachgebiet ISE befasst sich unter anderem mit dem Bereich [Privacy Engineering](https://www.tu.berlin/ise/forschung/forschungsprofil/privacy-engineering) und dabei im Konkreten mit Datenschutztechnologien mit explizitem Bezug zu realen Einsatzumgebungen.
 
 ### TU Berlin – Distributed Security Infrastructures (DSI@TUB)
 Das Fachgebiet DSI befasst sich unter anderem  mit der Analyse und dem Entwurf von datenschutzfreundlichen und sicheren verteilten Systemen, die eine selbstbestimmte Nutzung erlauben.
