@@ -1,7 +1,7 @@
 # GANGES
 
 ---
-![Ganges-Logo](![Logo_GANGES](https://github.com/ganges-project/.github/assets/56996085/8022c672-ac0f-4292-afcd-2d08c0c67aa3))
+![Logo_GANGES](https://github.com/ganges-project/.github/assets/56996085/8022c672-ac0f-4292-afcd-2d08c0c67aa3)
 
 Die Gewährleistung von Anonymitätsgarantien ist für die Umsetzung neuer, datenbasierter Anwendungen von entscheidender Bedeutung. Basisverfahren wie k-Anonymität oder Differential Privacy existieren zwar bereits, werden in der Praxis aber bislang kaum genutzt. Gründe hierfür sind unter anderem die bislang mangelnde Unterstützung für in der Praxis besonders relevante Datenarten wie auch die fehlende Adressierung in Enterprise-Umgebungen relevanter Kommunikations- und Architekturmodelle insbesondere zum Stream-Processing. Zudem mangelt es an einfacher Integrierbarkeit in etablierte Software-Stacks und an Metriken und Verfahren zur Abschätzung und Austarierung von Verarbeitungsoverheads und Informationsverlusten, mit denen unterschiedliche Anonymisierungsverfahren einhergehen.
 
@@ -23,7 +23,7 @@ Das Fachgebiet DSI befasst sich unter anderem  mit der Analyse und dem Entwurf v
 ### Ampeers Energy
 Ampeers Energy bietet Software-as-a-Service-Lösungen für die Energiewirtschaft, mit dem Bestreben, die Energiewende durch die Systemintegration erneuerbarer Energien voranzutreiben. Die aktuell verfügbaren Lösungen ermöglichen das cross-sektorale Energiemanagement in Quartieren, die vollintegrierte Abwicklung von Mieterstrom sowie die ex-ante Simulation von dezentralen Versorgungsmodellen.
 
-![Logo TU Berlin](![Logo_TUB](https://github.com/ganges-project/.github/assets/56996085/36f696a9-981f-4ad9-b050-469cea4e27a5)) ![Logo AE](![Logo_AE](https://github.com/ganges-project/.github/assets/56996085/e40450f1-a6e2-4dfb-a4ac-d24a250e9593))
+![Logo_TUB](https://github.com/ganges-project/.github/assets/56996085/36f696a9-981f-4ad9-b050-469cea4e27a5) ![Logo_AE](https://github.com/ganges-project/.github/assets/56996085/e40450f1-a6e2-4dfb-a4ac-d24a250e9593)
 
 ### Fördermittelgeber
 
